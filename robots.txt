@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://granti.at/sitemap.xml
